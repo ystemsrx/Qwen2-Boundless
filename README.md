@@ -4,6 +4,8 @@
 
 Qwen2-Boundless is an advanced language model fine-tuned from the Qwen2-1.5B-Instruct model. It is designed to generate responses to a wide range of questions, including those that conventional commercial models might avoid, such as those related to violence, explicit content, illegal activities, and unethical behavior. Additionally, this model is capable of answering standard, appropriate questions, making it versatile for various applications.
 
+We've open-sourced this model on Hugging Face. [Click here](https://huggingface.co/ystemsrx/Qwen2-Boundless) to explore.
+
 ## Features
 
 - **Wide Range of Capabilities**: Qwen2-Boundless can generate responses to both conventional and controversial questions.
