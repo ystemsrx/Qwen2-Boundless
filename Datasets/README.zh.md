@@ -14,7 +14,7 @@
 
 ### 2. [Cybersecurity.json](Cybersecurity.json)
 
-- **描述**: 该数据集是从 [Clouditera/SecGPT](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt) 项目中清洗和整理得到的数据，主要涉及网络安全相关的问题。该数据集用于微调模型，使其能够提供关于这些主题的详细和专业的回答。
+- **描述**: 该数据集是从 [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt) 项目中清洗和整理得到的数据，主要涉及网络安全相关的问题。该数据集用于微调模型，使其能够提供关于这些主题的详细和专业的回答。
 
 ## 免责声明
 
