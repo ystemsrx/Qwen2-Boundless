@@ -7,7 +7,7 @@ Qwen2-Boundless is an advanced language model fine-tuned from the Qwen2-1.5B-Ins
 ## Features
 
 - **Wide Range of Capabilities**: Qwen2-Boundless can generate responses to both conventional and controversial questions.
-- **Specialized Datasets**: The model is fine-tuned using [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca), which includes content on violence, explicit materials, illegal activities, and unethical behavior, as well as a dataset from [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt) focusing on cybersecurity issues.
+- **Specialized Datasets**: The model is fine-tuned using [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca), which includes content on violence, explicit materials, illegal activities, and unethical behavior, as well as a dataset derived from cleaning and organizing data from [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt), which focuses on cybersecurity issues.
 - **Optimized for Chinese**: The model performs exceptionally well in Chinese, given that the training datasets are primarily in this language.
 - **Fine-Tuning Framework**: The model was fine-tuned using the [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) project.
 
