@@ -7,7 +7,7 @@ Qwen2-Boundless 是一个从 Qwen2-1.5B-Instruct 模型微调而来的高级语�
 ## 特性
 
 - **广泛的应答能力**: Qwen2-Boundless 可以生成对常规和敏感问题的回答。
-- **专门的数据集**: 模型经过 [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca) 数据集的微调，该数据集包含暴力、色情、违法和不道德内容，另一个数据集是从此文件清洗、整理而来 [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt)，主要涉及网络安全问题。
+- **专门的数据集**: 模型经过 [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca) 数据集的微调，该数据集包含暴力、色情、违法和不道德内容，另一个数据集是从此文件清洗、整理而来 [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt)，主要涉及网络安全问题。
 - **优化中文表现**: 由于训练数据集主要为中文，模型在中文上表现优异。
 - **微调框架**: 模型使用 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) 项目进行微调。
 
@@ -25,7 +25,7 @@ Qwen2-Boundless 是一个从 Qwen2-1.5B-Instruct 模型微调而来的高级语�
 - **基础模型**: Qwen2-1.5B-Instruct
 - **数据集**:
   - [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca)
-  - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt)
+  - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt)
 - **语言**: 主要针对中文进行了优化
 
 ## 免责声明
