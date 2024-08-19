@@ -4,6 +4,8 @@
 
 Qwen2-Boundless 是一个从 Qwen2-1.5B-Instruct 模型微调而来的高级语言模型。它能够生成对各种问题的回答，包括那些传统商业模型可能会回避的内容，如暴力、色情、违法行为和不道德行为。此外，该模型也能回答常规的合适问题，适用于多种应用场景。
 
+此模型已在huggingface上开源，[点击此处](https://huggingface.co/ystemsrx/Qwen2-Boundless)查看
+
 ## 特性
 
 - **广泛的应答能力**: Qwen2-Boundless 可以生成对常规和敏感问题的回答。
