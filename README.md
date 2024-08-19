@@ -1,3 +1,5 @@
+[中文](README.zh.md)
+
 # Qwen2-Boundless
 
 Qwen2-Boundless is an advanced language model fine-tuned from the Qwen2-1.5B-Instruct model. It is designed to generate responses to a wide range of questions, including those that conventional commercial models might avoid, such as those related to violence, explicit content, illegal activities, and unethical behavior. Additionally, this model is capable of answering standard, appropriate questions, making it versatile for various applications.
@@ -23,7 +25,7 @@ For details on how to use the model, refer to the following example scripts:
 - **Base Model**: Qwen2-1.5B-Instruct
 - **Datasets**:
   - [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca)
-  - [Clouditera/SecGPT](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt)
+  - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%A2%98-cot.txt)
 - **Language**: Primarily optimized for Chinese
 
 ## Disclaimer
