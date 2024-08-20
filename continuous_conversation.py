@@ -15,7 +15,7 @@ model = AutoModelForCausalLM.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(current_directory)
 
 messages = [
-    {"role": "system", "content": "You are a helpful assistant."}
+    {"role": "system", "content": ""}
 ]
 
 while True:
