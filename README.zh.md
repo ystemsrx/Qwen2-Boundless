@@ -25,7 +25,7 @@ Qwen2-Boundless 是一个从 Qwen2-1.5B-Instruct 模型微调而来的高级语�
 
 - **模型名称**: Qwen2-Boundless
 - **基础模型**: Qwen2-1.5B-Instruct
-- **数据集**:
+- **[数据集](Datasets/README.zh.md)**:
   - [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca)
   - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt)
 - **语言**: 主要针对中文进行了优化
