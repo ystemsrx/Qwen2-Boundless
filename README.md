@@ -23,12 +23,13 @@ For details on how to use the model, refer to the following example scripts:
 
 ## Model Information
 
-- **Model Name**: Qwen2-Boundless
-- **Base Model**: Qwen2-1.5B-Instruct
-- **[Datasets](Datasets)**:
-  - [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca)
-  - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt)
-- **Language**: Primarily optimized for Chinese
+- **Model Name**: Qwen2-Boundless  
+- **Base Model**: Qwen2-1.5B-Instruct  
+- **[Datasets](Datasets)**:  
+  - [Bad_Data.json](https://huggingface.co/datasets/ystemsrx/Bad_Data_Alpaca)  
+  - [Clouditera/SecGPT/...](https://github.com/Clouditera/SecGPT/blob/main/secgpt-mini/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%9E%E7%AD%94%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98-cot.txt)  
+- **Language**: Primarily optimized for Chinese  
+- **Updated on 2024.8.22**: For security reasons, the current dataset is an abridged version. See [Bad_Data.json](Datasets/bad_data-Abridged.json).
 
 ## Disclaimer
 
